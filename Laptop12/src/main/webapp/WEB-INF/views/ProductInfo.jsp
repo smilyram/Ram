@@ -6,7 +6,7 @@
  response.setHeader("Cache-control", "no-cache, no-store, must-revalidate");
  response.setHeader("Expires", "0");
  %>
-  <title>Shoe Clue's</title>
+  <title>Single Product Info</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <head>

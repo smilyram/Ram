@@ -38,6 +38,6 @@ public class CartController
 		cartItem.setItem(item);
 		cartItem.setTotalAmount(item.getPrice());
 		cartItemService.addItemToCart(cartItem);
-		return "redirect:/login";
+		return "redirect:/Customer";
 	}
 }
